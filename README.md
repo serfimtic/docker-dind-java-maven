@@ -2,7 +2,7 @@
 
 ## Description
 
-A docker image based on docker in docker image and providing java and maven and node.
+A docker image based on docker in docker image and providing java and maven.
 
 ## Available tags
 
