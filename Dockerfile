@@ -1,4 +1,5 @@
 FROM maven:3.6.3-openjdk-11
+FROM node:10.16.2-stretch
 
 RUN apt-get update
 RUN apt-get -y install apt-transport-https ca-certificates curl gnupg2 software-properties-common
